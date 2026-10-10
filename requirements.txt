@@ -1,13 +1,5 @@
-
-
-
-
-
-
-
-
-
 streamlit
-groq
 python-dotenv
-duckduckgo-search
+groq
+requests
+ddgs
