@@ -10,3 +10,4 @@
 streamlit
 groq
 python-dotenv
+duckduckgo-search
